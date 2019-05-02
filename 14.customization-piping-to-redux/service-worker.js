@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BotFramework-WebChat/14.customization-piping-to-redux/precache-manifest.331fd268eaa9fb84ad0d16ca38c848ab.js"
+  "/BotFramework-WebChat/14.customization-piping-to-redux/precache-manifest.a0ba2cc11d851829a81a0ddd1e0e4112.js"
 );
 
 workbox.clientsClaim();
